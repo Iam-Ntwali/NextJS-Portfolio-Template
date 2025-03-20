@@ -123,7 +123,7 @@ export const HeroSection = () => {
             <small className="text-sm md:text-base">Hello 👋🏾.</small> <br />{" "}
             I&apos;m{" "}
             <span className="bg-gradient-to-r from-emerald-300 to-sky-400 text-transparent bg-clip-text font-serif font-semibold">
-              John Doe
+              John Doe Smith
             </span>
           </h1>
           <p className="mt-4 text-center text-white/60 md:text-lg">
